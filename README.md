@@ -22,7 +22,7 @@ O Rocket.Q é uma aplicação de interação através de perguntas, sendo possí
   <tr>
     <td>HTML</td>
     <td>CSS</td>
-    <td>NodeJs</td>
+    <td>NodeJS</td>
     <td>SQLite</td>
     <td>EJS</td>
   </tr>
